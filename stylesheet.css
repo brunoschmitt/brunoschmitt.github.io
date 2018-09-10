@@ -1,0 +1,31 @@
+.menu {
+	border: 1px solid;
+	height: 50px;
+}
+
+.background {
+	background-image: url(imagens/background.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+
+.imagens{
+	width: 350px;
+	height: 350px;
+
+
+}
+
+
+.links{
+	display: inline-block;
+	color: white;
+	text-transform: uppercase;
+}
+
+.icons{
+	color: white;
+}
+
